@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender 3D 产品演示"
+  short_description: "用 Blender 和真实操作录屏制作产品功能短片"
+  default_prompt: "用 $blender-product-film 把这些实录做成带 3D 开场的功能短片。"
